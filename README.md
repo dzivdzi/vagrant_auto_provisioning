@@ -1,7 +1,7 @@
 # vagrant_auto_provisioning
 
 
-Simple WebApp deployment using Vagrant
+MutliTier WebApp deployment using Vagrant
 
 Vagrant + Bash
 
